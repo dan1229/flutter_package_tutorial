@@ -1,4 +1,4 @@
-# {project_name_capitalcase}
+# Flutter Package Tutorial
 #### By: [Daniel Nazarian](https://danielnazarian) 🐧👹
 ##### Contact me at <dnaz@danielnazarian.com>
 

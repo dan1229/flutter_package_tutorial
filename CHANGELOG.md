@@ -1,4 +1,4 @@
-# CHANGELOG for {project_name_capitalcase}
+# CHANGELOG for Flutter Package Tutorial
 #### By: [Daniel Nazarian](https://danielnazarian) 🐧👹
 ##### Contact me at <dnaz@danielnazarian.com>
 
