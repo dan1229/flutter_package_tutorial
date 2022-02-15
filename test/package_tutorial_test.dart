@@ -1,4 +1,4 @@
-import 'package:flutter_package_tutorial/package_tutorial.dart';
+import 'package:flutter_package_tutorial/flutter_package_tutorial.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 
